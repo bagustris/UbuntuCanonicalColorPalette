@@ -1,0 +1,21 @@
+GIMP Palette
+Name: Ubuntu and Canonical Colours
+Columns: 3
+#
+
+  0   0   0     Black - C0 M0 Y0 K100, #000000
+ 51  51  51     Cool Grey - PMS Cool Grey 11, C44 M34 Y22 K78, #333333
+174 167 159     Warm Grey - PMS Warm Grey 5, C0 M5 Y10 K29, #aea79f
+239 239 239 Light Grey - C0 M0 Y0 K0, #efefef
+255 255 255     White - C0 M0 Y0 K0, #ffffff
+
+233  56  44 Red   - C0 M75 Y80 K13, #df382c
+221  72  20     Ubuntu Orange - PMS 1665, C0 M79 Y100 K0, #DD4814
+239 183  62 Yellow - C0 M23 Y74 K6, #efb73e
+ 56 180  74 Green - C69 M0 Y59 K29, #38b44a
+ 25 182 238 Blue - C89 M24 Y0 K7, #19b6ee
+
+119  33 111     Canonical Light Aubergine - PMS 512, C60 M100 Y15 K5, #77216f
+119  41  83     Canonical Aubergine - PMS 683, C26 M99 Y12 K52, #772953
+ 94  39  80     Canonical Dark Aubergine - PMS 511, C70 M100 Y50 K20, #5e2750
+ 44   0  30     Server Dark Aubergine - PMS 7449, C66 M98 Y21 K85, #2c001e
